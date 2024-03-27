@@ -1,0 +1,8 @@
+cd - change directory
+
+git init //initialise git
+git add . // add folder to staging area
+git commit -m "my first commit"
+git branch -M main // change branch from master to main
+git remote add origin https://github.com/sairoshan7/Prodapt.git  // to link local and remote repository
+git push -u origin main // to push files from local to remote repository
